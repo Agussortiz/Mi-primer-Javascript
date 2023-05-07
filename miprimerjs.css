@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 10px;
+    background-color: rgb(85, 126, 112);
+}
+
+.parrafo{
+    text-align: center;
+    color: aliceblue;
+}
+
+header{
+    text-align: center;
+    color: aliceblue;
+}
